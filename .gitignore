@@ -1,0 +1,9 @@
+__pycache__/
+.pytest_cache/
+.venv/
+calibration.json
+camera_calib.npz
+calib_images/
+snapshot_*.png
+measurements.csv
+*.zip
